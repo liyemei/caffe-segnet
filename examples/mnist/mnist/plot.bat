@@ -1,0 +1,1 @@
+ cd C:\caffe\caffe-master\Build\x64\Release\pycaffe python draw_net.py C:\caffe\caffe-master\examples\mnist\lenet_train_test.prototxt  C:\caffe\caffe-master\examples\mnist\lenet_train_test.png --rankdir=LR

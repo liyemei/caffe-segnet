@@ -1,0 +1,2 @@
+C:/caffe/NugetPackages/protoc_x64.2.6.1/build/native/protoc.exe -I="C:/caffe/caffe-master/src/caffe/proto" --cpp_out="C:/caffe/caffe-master/src/caffe/proto" "C:/caffe/caffe-master/src/caffe/proto/caffe.proto"
+pause
