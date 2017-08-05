@@ -2,6 +2,7 @@ windows vs2013 python2.7 matlab2014以上
 添加upsample 、BN层。支持Segnet，添加Segnet-C++、python接口demo
 打开windows-Caffe.sln编译即可，其他编译问题同微软官方caffe步骤
 添加了cpm层。
+
 参考：
 We add customized caffe layer for data augmentation: cpm_data_transformer.cpp, including scale augmentation e.g., in the range of 0.7 to 1.3, rotation augmentation, e.g., in the range of -40 to 40 degrees, flip augmentation and image cropping. This augmentation strategy makes the method capable of dealing with a large range of scales and orientations. You can set the augmentation parameters in setLayers.py. Example data layer parameters in the training prototxt is:
 
