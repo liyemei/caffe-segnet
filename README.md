@@ -68,5 +68,7 @@ layer { <br>
   } <br>
 }</p><p data-anchor-id="40ds">这里上传一个简化版本的训练测试工程，解压后放在D盘即可，训练在C++训练。 <br>
 链接：<a href="http://pan.baidu.com/s/1o80sCEu" target="_blank">http://pan.baidu.com/s/1o80sCEu</a> 密码：ugbs</p><p data-anchor-id="xslk">copyright @Qingsong Liu</p></div>
+  测试框架，解压可以编译使用
+  链接：http://pan.baidu.com/s/1i5aK3sT 密码：ez04
 </body>
 </html>
